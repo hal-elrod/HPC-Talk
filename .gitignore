@@ -1,0 +1,20 @@
+matrices/.venv/
+
+# Compiled object files
+*.o
+*.obj
+*.out
+
+# Executable and linked binary artifacts
+*.a
+*.dll
+*.dylib
+*.exe
+*.so
+
+# Local compiled binaries in this project
+matrices/naive
+matrices/omp
+matrices/strassen
+matrices/cuda
+matrices/cudablas
